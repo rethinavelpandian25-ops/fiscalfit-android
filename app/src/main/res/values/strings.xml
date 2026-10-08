@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FiscalFit</string>
+    <!-- CHANGE THIS to your Render website address (must start with https://) -->
+    <string name="app_url">https://fiscal-fit.onrender.com</string>
+</resources>

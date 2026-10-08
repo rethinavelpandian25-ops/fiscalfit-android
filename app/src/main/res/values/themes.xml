@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.FiscalFit" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#9CCC3C</item>
+        <item name="android:windowBackground">#F3F4F4</item>
+    </style>
+</resources>
